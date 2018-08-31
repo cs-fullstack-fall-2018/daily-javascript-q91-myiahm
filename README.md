@@ -45,3 +45,11 @@ function printDate() {
 }
 printDate();
 ```
+
+
+
+
+
+
+
+option 2
